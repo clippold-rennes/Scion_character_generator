@@ -1,0 +1,15 @@
+Aesir	Corps à Corps, Occultisme	Fatalisme VS Audace	Wyrd
+
+Baldr/Baldur	Gardien, Liminal, Guerrier	Vigueur, Santé, Passion (Amour, Guerre), Soleil
+Freyja	Gardien, Amant, Sage, Guerrier	Mort, Vigueur, Fertilité, Fortune, Passion (Amour, Luxure), Richesse, Guerre
+Freyr	Amant, Guerrier, Meneur	Fertilité, Ordre, Guerre
+Frigg/Frigga	Gardien, Amant, Sage	Fortune, Ordre
+Heimdall	Gardien, Chasseur, Guerrier	Arts (Cors), Vigueur, Passion (Vigilance)
+Hel	Gardien, Justicier, Liminal	Mort, Forge, Froid, Santé, Passion (Peur, Dégoût)
+Loki	Liminal, Amant, Filou	Chaos, Tromperie, FOR, Feu
+Njord	Géniteur, Chasseur, Meneur	Fertilité, Feu, Voyages, Richesse, Ciel, Eau
+Odin	Meneur, Sage, Filou	Arts (Poésie), Mort, Tromperie, Vigueur, Fortune, Voyages, Guerre
+Sif	Géniteur, Justicier, Amant	Terre, Fertilité, Ordre, Passion (Paix)
+Skadi	Chasseur, Justicier, Guerrier	Terre, DEX, Froid, Voyages, Ordre
+Thor	Gardien, Meneur, Guerrier	Vigueur, FOR, Fertilité, Ciel
+Tyr	Justicier, Meneur, Guerrier	Vigueur, Ordre, Passion (Courage), Guerre

@@ -1,0 +1,15 @@
+Òrìshà	Médecine, Subterfuge	Tradition VS Innovation	Gún/Cheval
+Èṣù Elègbará	Liminal, Amant, Filou	Arts (Narration d’histoires), Chaos, Tromperie, DEX, Fortune, Voyages	
+Ìbejì	Guérisseur, Justicier, Filou	Arts (Danse), Animal (Singes), Mort, Fertilité, Fortune, Richesse	Les Ìbejì ne créent que des Scions Élus, ceux nés en tant que jumeaux sacrés. [de ce que j’ai compris, ils choisissent un enfant parmi des jumeaux, et l’autre se retrouve avec un random parent divin.]
+Mọrèmi	Gardien, Amant, Filou	Beauté, Tromperie, Fertilité, Feu, Passion (toutes)	
+Ọbàtálá	Géniteur, Justicier, Meneur	Arts (Sculpture), Santé, Ordre, Ciel	
+Odùduwà	Géniteur, Meneur, Guerrier	Ténèbres, Terre, Ordre, Guerre	
+Ògún	Géniteur, Chasseur, Guerrier	Terre, FOR, Vigueur, Forge, Passion (Peur), Guerre	
+Òrìṣà-Oko	Chasseur, Justicier, Sage	Animal (de bât, Oiseaux), Fertilité, Fortune, Ordre, Richesse	
+Ọ̀rúnmìlà	Guérisseur, Justicier, Sage	Fortune, Ciel, Étoiles, Monde Sauvage	
+Osóssí	Gardien, Chasseur, Justicier	Animal (tous), DEX, Richesse, Monde Sauvage	
+Ọ̀ṣun	Guérisseur, Amant, Sage	Animal (Abeilles), Beauté, Fortune, Froid, Santé, Passion (Amour), Richesse, Eau	
+Ọya Iyansan	Gardien, Liminal, Guerrier	Animal (Taureau), DEX, FOR, Mort, Richesse, Ciel, Eau	
+ỌyaṢhàngó	Meneur, Amant, Guerrier	Arts (Danse, Tambours), Beauté, FOR, Feu, Ordre, Passion, Richesse, Ciel,Guerre	
+Sò ̣npò ̣nná	Guérisseur, Chasseur, Liminal	Mort, Terre, Santé, Passion (Dépit), Monde Sauvage	
+Yemọja-Oboto	Géniteur, Gardien, Meneur	Animal (Cétacées), FOR, Vigueur, Fertilité, Froid, Voyages, Eau	

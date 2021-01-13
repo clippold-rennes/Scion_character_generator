@@ -1,0 +1,14 @@
+Teōtl	Athlétisme OU Corps à Corps, Culture	Faim VS Sacrifice	Nextlahualli
+Chālchihuitlicuē	Géniteur, Gardien, Meneur	Animal (Aquatiques), Fertilité, Eau
+Chantico	Guérisseur, Liminal, Sage	Feu, Forge, Ordre, Richesse
+Chicomecoatl	Guérisseur, Gardien, Justicier	Terre, Fertilité, Richesse
+Huēhuecoyōtl	Amant, Sage, Filou	Chaos, DEX, Passion (toutes)
+Huītzilōpōchtli	Gardien, Meneur, Guerrier	Animal (Aigle, Colibri), Mort, FOR, Richesse, Soleil, Guerre
+Ītzpāpālōtl	Chasseur, Amant, Guerrier	Animal (tous), Ténèbres, Mort, Fertilité, Étoiles, Guerre
+Mictecacihuatl	Gardien, Meneur, Sage	Animal (Chauve-souris, Chouette, Araignée), Ténèbres, Mort, Passion (toutes)
+Quetzalcōātl	Géniteur, Liminal, Sage	Arts (Écriture à la plume), Animal (tous), Fertilité, Voyages, Ordre, Ciel, Étoiles
+Tezcatlipōca	Chasseur, Meneur, Filou	Animal (Jaguar, Dinde), Chaos, Ténèbres, Tromperie, Terre, Fortune, Guerre
+Tlāloc	Gardien, Guérisseur, Chasseur	Mort, Terre, Fertilité, Froid, Santé, Ciel
+Xīpe Totec	Géniteur, Guérisseur, Chasseur	Fertilité, Forge, Santé, Guerre
+Xōchipilli	Gardien, Amant, Filou	Arts (toutes), Beauté, Fortune, Passion (toutes), Richesse
+Xochiquetzal	Géniteur, Gardien, Amant	Arts (tous), Beauté, DEX, Fertilité, Fortune, Passion (toutes), Richesse

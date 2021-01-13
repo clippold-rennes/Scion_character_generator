@@ -1,0 +1,13 @@
+Netjer	Sciences Humaines, Occultisme	Équilibre VS Justice	Heku
+Anubis	Gardien, Justicier, Liminal	Animal (Chacal), Ténèbres, Mort, Ordre	
+Bastet/Sekhmet	Gardien, Chasseur, Guerrier	Arts (Danse, Musique), Animal (Chats, Lions), DEX, Fertilité, Fortune, Santé, Lune, Soleil, Guerre	
+Hathor/Het-Heru	Géniteur, Amant, Guérisseur	Arts (Musique, Danse), Animal (Vache), Beauté, Fertilité, Fortune, Passion (Amour), Ciel	
+Horus/Heru	Gardien, Meneur, Guerrier	Animal (Faucon), Lune, Ordre, Ciel, Soleil, Guerre	
+Isis/Aset	Gardien, Guérisseur, Filou	Animal (Milan, Serpent), Mort, Tromperie, Fertilité, Fortune, Santé, Étoiles	
+Khnum	Géniteur, Guérisseur, Sage	Arts (Danse, Poterie), Animal (Bélier), Terre, Santé, Eau	
+Osiris/Wesir	Géniteur, Justicier, Meneur	Animal (Bélier, Mille-pattes), Mort, Terre, Fertilité, Ordre	Osiris ne peut pas faire de Scions sans l’accord d’Isis.
+Ptah	Géniteur, Liminal, Sage	Animal (Taureau), Feu, Forge	
+Ra	Géniteur, Justicier, Meneur	Animal (Faucon, Scarabée, Bélier), Mort, Vigueur, Feu, Voyages, Ordre, Soleil	
+Set	Gardien, Meneur, Filou	Animal (Salawa, Poisson), Chaos, Terre, FOR, Voyages, Ciel, Guerre	
+Sobek	Gardien, Chasseur, Amant	Animal (Crocodile), Vigueur, Passion (Luxure), Fertilité, Eau	
+Toth/Djehuty	Gardien, Liminal, Sage	Animal (Babouin, Ibis), Tromperie, Fortune, Santé, Lune, Ordre	

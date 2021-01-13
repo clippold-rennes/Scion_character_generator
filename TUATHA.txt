@@ -1,0 +1,13 @@
+Tuatha Dé Danann	Corps à Corps, Culture	Honneur VS Prouesse	Geasa
+Aengus the Mac Óg	Gardien, Amant, Filou	Animal (Oiseau), Tromperie, Lune, Passion (Amour)
+Brigid	Guérisseur, Sage, Filou	Arts (Poésie), Fertilité, Feu, Forge, Santé
+Dian Cécht	Géniteur, Guérisseur, Justicier	Fertilité, Santé, Eau
+Donn	Meneur, Liminal, Filou	Ténèbres, Mort, Voyages, Ciel
+Eriu	Gardien, Justicier, Meneur	Terre, Fertilité, Ordre, Richesse
+Goibniu	Géniteur, Sage, Guerrier	Arts (Brassage), Vigueur, Forge, Santé
+La Morrigan	Liminal, Amant, Sage	Animal (Corbeaux, Bétail, Cheval), Chaos, Mort, DEX, Fortune, Richesse, Guerre
+Le Dagda	Gardien, Meneur, Sage	Vigueur, FOR, Fertilité, Forge, Richesse, Guerre
+Lugh Lámhfhada	Géniteur, Meneur, Guerrier	Arts (tous), DEX, FOR, Forge, Santé, Ordre, Richesse, Guerre
+Manannán mac Lir	Gardien, Liminal, Filou	Tromperie, Voyages, Richesse, Étoiles, Eau
+Nuada Airgetlám	Meneur, Sage, Guerrier	Ordre, Richesse, Guerre
+Ogma	Gardien, Sage, Guerrier	Arts (Rhétorique, Poésie), FOR, Fortune, Monde Sauvage

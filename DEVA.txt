@@ -1,0 +1,16 @@
+Devá	Armes à Feu OU Athéltisme, Survie	Conscience VS Devoir	Yoga
+Agni	Gardien, Liminal, Sage	FOR, DEX, Feu, Voyages, Richesse, Eau
+Brahmā	Géniteur, Justicier, Sage	Vigueur, Fertilité, Forge, Passion (toutes)
+Durgā	Gardien, Chasseur, Guerrier	Tromperie, FOR, DEX, Vigueur, Fertilité, Guerre
+Gaṇesha	Gardien, Liminal, Sage	Arts (Danse, Ecriture), Animal (Éléphants), Chaos, Fortune, Voyages, Richesse
+Indra	Gardien, Meneur, Guerrier	Animal (Bétail), FOR, DEX, Fertilité, Ordre, Ciel, Guerre, Monde Sauvage
+Kali	Gardien, Liminal, Guerrier	FOR, DEX, Vigueur, Arts (Danse), Chaos, Ténèbres, Mort, Tromperie, Feu
+Kārttikēya	Meneur, Sage, Guerrier	Beauté, FOR, DEX, Vigueur, Étoiles, Guerre
+Lakṣhmī	Justicier, Meneur, Amant	Beauté, FOR, Terre, Fertilité, Fortune, Ordre, Passion (Joie, Amour), Richesse, Monde Sauvage
+Parvati	Géniteur, Amant, Filou	FOR, Vigueur, Arts (Danse), Beauté, Terre, Fertilité, Froid, Passion (Dévotion, Amour)
+Sarasvatī	Géniteur, Guérisseur, Sage	Arts (tous), FOR, DEX, Santé, Eau
+Śhiva	Chasseur, Amant, Sage	Arts (Danse), Animal (Singes), Chaos, Mort, Tromperie, FOR, DEX, Vigueur, FOR, Fertilité, Feu, Lune, Ciel
+Sūrya	Guérisseur, Meneur, Sage	FOR, DEX, Feu, Santé, Voyages, Étoiles, Soleil
+Varuna	Gardien, Justicier, Meneur	FOR, Ténèbres, Fertilité, Ordre, Ciel, Soleil, Eau
+Viṣhṇu	Gardien, Amant, Filou	Arts (Danse, Instruments à Vent), Beauté, Tromperie, Vigueur, FOR, DEX, Ordre, Passion (toutes)
+Yamaraja	Justicier, Meneur, Liminal	DEX, Vigueur, Ténèbres, Mort, Voyages, Ordre

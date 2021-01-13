@@ -1,0 +1,16 @@
+Theoi	Empathie, Persuasion	Égotisme VS Famille	Métamorphose
+Aphrodite	Géniteur, Gardien, Amant	Fertilité, Passion (Désir, Amour), Richesse	
+Apollo	Guérisseur, Justicier, Sage	Arts, DEX, Santé, Soleil	
+Arès	Gardien, Amant, Guerrier	Chaos, Fertilité, Ordre, Passion (Rage, Courage), Richesse, Guerre	
+Artemis	Gardien, Guérisseur, Chasseur	Animal (tous), DEX, Santé, Lune	Artemis ne crée que des Scions Élus, de jeunes enfants et des jeunes femmes qui se consacrent à elle.
+Athéna	Gardien, Sage, Guerrier	Arts (Tissage), Animal (Chouette), DEX, Ordre, Guerre	Athena ne crée que des Scions Élus, à partir de personnes qu’elle peut modeler pour leur faire porter ses idéaux et objectifs.
+Demeter	Géniteur, Gardien, Justicier	Terre, Vigueur, Fertilité, Ordre	
+Dionysos	Liminal, Amant, Sage	Arts (Théâtre), Chaos, Tromperie, Fertilité, Passion (Extase)	
+Hades	Justicier, Meneur, Liminal	Ténèbres, Mort, Terre, Richesse	
+Hephaestus	Géniteur, Sage, Filou	Vigueur, Feu, Forge, Fortune	
+Hera	Justicier, Meneur, Amant	Fertilité, Santé, Ordre, Richesse	
+Hermes	Liminal, Sage, Filou	Mort, Tromperie, DEX, Voyages, Richesse	
+Hestia	Gardien, Guérisseur, Justicier	Feu, Fortune, Ordre, Richesse	
+Persephone	Justicier, Meneur, Liminal	Ténèbres, Mort, Fertilité, Santé	
+Poseidon	Gardien, Chasseur, Meneur	Animal (Cheval), FOR, Terre, Eau	
+Zeus	Meneur, Amant, Filou	Tromperie, FOR, Vigueur, Fortune, Ciel	

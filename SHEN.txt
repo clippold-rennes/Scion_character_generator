@@ -1,0 +1,14 @@
+Shén	Sciences Humaines, Commandement	Yin VS Yang	Tianming
+Chang’e	Guérisseur, Amant, Filou	Animal (Lapin, Crapaud), Vigueur, Santé, Lune	
+Confucius	Justicier, Meneur, Sage	Arts (tous), Ordre, Passion (Filiale)	
+Erlang	Gardien, Chasseur, Guerrier	Vigueur, FOR, Forge, Guerre, Eau	
+Fuxi	Géniteur, Chasseur, Sage	Arts (Instruments de musique, Ecriture), Animal (tous), Fertilité, Forge, Fortune, Santé, Ordre, Soleil	
+Guan Yu	Gardien, Meneur, Guerrier	Arts (Fiction historique), FOR, Vigueur, Ordre, Passion (Loyalty), Richesse, Ciel, Guerre	
+Guanshiyin Pusa	Gardien, Guérisseur, Sage	Tromperie, Vigueur, Santé, Voyages, Passion (Pitié), Eau	Guanshiyin Pusa ne crée que des Scions Élus depuis des mères dotées d'une grande compassion, et de potentiels bouddhas.
+Huangdi	Géniteur, Meneur, Sage	Animal (tous), Mort, Terre, Forge, Santé, Ordre, Richesse, Guerre	
+Lǎozǐ	Meneur, Sage, Filou	Arts (Poésie), Chaos, Ténèbres, Vigueur, Santé, Ordre, Eau	
+Nuwa	Géniteur, Gardien, Guérisseur	Terre, Fertilité, Forge, Santé, Lune, Ciel	
+Prince Nezha	Gardien, Filou, Guerrier	Arts (Animation), Vigueur, Santé, Guerre	
+Soleil WuKong	Liminal, Filou, Guerrier	Arts (Opéra), Animal Singe, Chaos, Tromperie, DEX, Vigueur, FOR, Voyages, Guerre	
+Xi Wangmu	Gardien, Meneur, Sage	Animal (tous), Vigueur, Fertilité, Passion (Joie), Richesse, Eau	
+Yandi Shennongshi	Guérisseur, Meneur, Sage	Arts (Narration), Vigueur, Fertilité, Feu, Forge, Santé, Richesse	

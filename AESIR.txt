@@ -1,7 +1,7 @@
 "Aesir": {
 "competences": "Corps à Corps, Occultisme",
 "echelle de vertu": "Fatalisme VS Audace",
-"domaine pantheon": Wyrd,
+"domaine pantheon": "Wyrd",
 "liste dieux": {
 	"Baldr/Baldur": {
 		"vocations": "Gardien, Liminal, Guerrier",

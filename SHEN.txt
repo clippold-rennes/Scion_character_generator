@@ -1,14 +1,71 @@
-Shén	Sciences Humaines, Commandement	Yin VS Yang	Tianming
-Chang’e	Guérisseur, Amant, Filou	Animal (Lapin, Crapaud), Vigueur, Santé, Lune	
-Confucius	Justicier, Meneur, Sage	Arts (tous), Ordre, Passion (Filiale)	
-Erlang	Gardien, Chasseur, Guerrier	Vigueur, FOR, Forge, Guerre, Eau	
-Fuxi	Géniteur, Chasseur, Sage	Arts (Instruments de musique, Ecriture), Animal (tous), Fertilité, Forge, Fortune, Santé, Ordre, Soleil	
-Guan Yu	Gardien, Meneur, Guerrier	Arts (Fiction historique), FOR, Vigueur, Ordre, Passion (Loyalty), Richesse, Ciel, Guerre	
-Guanshiyin Pusa	Gardien, Guérisseur, Sage	Tromperie, Vigueur, Santé, Voyages, Passion (Pitié), Eau	Guanshiyin Pusa ne crée que des Scions Élus depuis des mères dotées d'une grande compassion, et de potentiels bouddhas.
-Huangdi	Géniteur, Meneur, Sage	Animal (tous), Mort, Terre, Forge, Santé, Ordre, Richesse, Guerre	
-Lǎozǐ	Meneur, Sage, Filou	Arts (Poésie), Chaos, Ténèbres, Vigueur, Santé, Ordre, Eau	
-Nuwa	Géniteur, Gardien, Guérisseur	Terre, Fertilité, Forge, Santé, Lune, Ciel	
-Prince Nezha	Gardien, Filou, Guerrier	Arts (Animation), Vigueur, Santé, Guerre	
-Soleil WuKong	Liminal, Filou, Guerrier	Arts (Opéra), Animal Singe, Chaos, Tromperie, DEX, Vigueur, FOR, Voyages, Guerre	
-Xi Wangmu	Gardien, Meneur, Sage	Animal (tous), Vigueur, Fertilité, Passion (Joie), Richesse, Eau	
-Yandi Shennongshi	Guérisseur, Meneur, Sage	Arts (Narration), Vigueur, Fertilité, Feu, Forge, Santé, Richesse	
+"Shén": {
+	"vocations": "competences": "Sciences Humaines, Commandement",
+	"echelle de vertu": "Yin VS Yang", 
+	"domaine pantheon": "Tianming",
+	"liste dieux": {
+
+	
+	"Chang’e": {
+	"vocations": "Guérisseur, Amant, Filou",
+	"domaines": "Animal (Lapin, Crapaud), Vigueur, Santé, Lune"},
+
+	
+	"Confucius": {
+	"vocations": "Justicier, Meneur, Sage",
+	"domaines": "Arts (tous), Ordre, Passion (Filiale)"},
+
+	
+	"Erlang": {
+	"vocations": "Gardien, Chasseur, Guerrier",
+	"domaines": "Vigueur, FOR, Forge, Guerre, Eau"},
+
+	
+	"Fuxi": {
+	"vocations": "Géniteur, Chasseur, Sage",
+	"domaines": "Arts (Instruments de musique, Ecriture), Animal (tous), Fertilité, Forge, Fortune, Santé, Ordre, Soleil"},
+
+	
+	"Guan Yu": {
+	"vocations": "Gardien, Meneur, Guerrier",
+	"domaines": "Arts (Fiction historique), FOR, Vigueur, Ordre, Passion (Loyalty), Richesse, Ciel, Guerre"},
+
+	"Guanshiyin Pusa": {
+	"vocations": "Gardien, Guérisseur, Sage",
+	"domaines": "Tromperie, Vigueur, Santé, Voyages, Passion (Pitié), Eau"},
+
+	
+	"Huangdi": {
+	"vocations": "Géniteur, Meneur, Sage",
+	"domaines": "Animal (tous), Mort, Terre, Forge, Santé, Ordre, Richesse, Guerre"},
+
+	
+	"Lǎozǐ": {
+	"vocations": "Meneur, Sage, Filou",
+	"domaines": "Arts (Poésie), Chaos, Ténèbres, Vigueur, Santé, Ordre, Eau"},
+
+	
+	"Nuwa": {
+	"vocations": "Géniteur, Gardien, Guérisseur",
+	"domaines": "Terre, Fertilité, Forge, Santé, Lune, Ciel"},
+
+	
+	"Prince Nezha": {
+	"vocations": "Gardien, Filou, Guerrier",
+	"domaines": "Arts (Animation), Vigueur, Santé, Guerre"},
+
+	
+	"Soleil WuKong": {
+	"vocations": "Liminal, Filou, Guerrier",
+	"domaines": "Arts (Opéra), Animal Singe, Chaos, Tromperie, DEX, Vigueur, FOR, Voyages, Guerre"},
+
+	
+	"Xi Wangmu": {
+	"vocations": "Gardien, Meneur, Sage",
+	"domaines": "Animal (tous), Vigueur, Fertilité, Passion (Joie), Richesse, Eau"},
+
+	
+	"Yandi Shennongshi": {
+	"vocations": "Guérisseur, Meneur, Sage",
+	"domaines": "Arts (Narration), Vigueur, Fertilité, Feu, Forge, Santé, Richesse"}
+	}
+}

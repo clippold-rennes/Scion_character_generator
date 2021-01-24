@@ -1,13 +1,54 @@
-Netjer	Sciences Humaines, Occultisme	Équilibre VS Justice	Heku
-Anubis	Gardien, Justicier, Liminal	Animal (Chacal), Ténèbres, Mort, Ordre	
-Bastet/Sekhmet	Gardien, Chasseur, Guerrier	Arts (Danse, Musique), Animal (Chats, Lions), DEX, Fertilité, Fortune, Santé, Lune, Soleil, Guerre	
-Hathor/Het-Heru	Géniteur, Amant, Guérisseur	Arts (Musique, Danse), Animal (Vache), Beauté, Fertilité, Fortune, Passion (Amour), Ciel	
-Horus/Heru	Gardien, Meneur, Guerrier	Animal (Faucon), Lune, Ordre, Ciel, Soleil, Guerre	
-Isis/Aset	Gardien, Guérisseur, Filou	Animal (Milan, Serpent), Mort, Tromperie, Fertilité, Fortune, Santé, Étoiles	
-Khnum	Géniteur, Guérisseur, Sage	Arts (Danse, Poterie), Animal (Bélier), Terre, Santé, Eau	
-Osiris/Wesir	Géniteur, Justicier, Meneur	Animal (Bélier, Mille-pattes), Mort, Terre, Fertilité, Ordre	Osiris ne peut pas faire de Scions sans l’accord d’Isis.
-Ptah	Géniteur, Liminal, Sage	Animal (Taureau), Feu, Forge	
-Ra	Géniteur, Justicier, Meneur	Animal (Faucon, Scarabée, Bélier), Mort, Vigueur, Feu, Voyages, Ordre, Soleil	
-Set	Gardien, Meneur, Filou	Animal (Salawa, Poisson), Chaos, Terre, FOR, Voyages, Ciel, Guerre	
-Sobek	Gardien, Chasseur, Amant	Animal (Crocodile), Vigueur, Passion (Luxure), Fertilité, Eau	
-Toth/Djehuty	Gardien, Liminal, Sage	Animal (Babouin, Ibis), Tromperie, Fortune, Santé, Lune, Ordre	
+"Netjer": {
+	"competences": "Sciences Humaines, Occultisme",
+	"echelle de vertu": "Équilibre VS Justice", 
+	"domaine pantheon": "Heku",
+	"liste dieux": {
+		"Anubis": {
+		"vocations": "Gardien, Justicier, Liminal",
+		"domaines": "Animal (Chacal), Ténèbres, Mort, Ordre"},
+		
+		"Bastet/Sekhmet": {
+		"vocations": "Gardien, Chasseur, Guerrier",
+		"domaines": "Arts (Danse, Musique), Animal (Chats, Lions), DEX, Fertilité, Fortune, Santé, Lune, Soleil, Guerre"},
+		
+		"Hathor/Het-Heru": {
+		"vocations": "Géniteur, Amant, Guérisseur",
+		"domaines": "Arts (Musique, Danse), Animal (Vache), Beauté, Fertilité, Fortune, Passion (Amour), Ciel"},
+		
+		"Horus/Heru": {
+		"vocations": "Gardien, Meneur, Guerrier",
+		"domaines": "Animal (Faucon), Lune, Ordre, Ciel, Soleil, Guerre"},
+		
+		"Isis/Aset": {
+		"vocations": "Gardien, Guérisseur, Filou",
+		"domaines": "Animal (Milan, Serpent), Mort, Tromperie, Fertilité, Fortune, Santé, Étoiles"},
+		
+		"Khnum": {
+		"vocations": "Géniteur, Guérisseur, Sage",
+		"domaines": "Arts (Danse, Poterie), Animal (Bélier), Terre, Santé, Eau"},
+		
+		"Osiris/Wesir": {
+		"vocations": "Géniteur, Justicier, Meneur",
+		"domaines": "Animal (Bélier, Mille-pattes), Mort, Terre, Fertilité, Ordre",}
+		
+		"Ptah": {
+		"vocations": "Géniteur, Liminal, Sage",
+		"domaines": "Animal (Taureau), Feu, Forge"},
+		
+		"Ra": {
+		"vocations": "Géniteur, Justicier, Meneur",
+		"domaines": "Animal (Faucon, Scarabée, Bélier), Mort, Vigueur, Feu, Voyages, Ordre, Soleil"},
+		
+		"Set": {
+		"vocations": "Gardien, Meneur, Filou",
+		"domaines": "Animal (Salawa, Poisson), Chaos, Terre, FOR, Voyages, Ciel, Guerre"},
+		
+		"Sobek": {
+		"vocations": "Gardien, Chasseur, Amant",
+		"domaines": "Animal (Crocodile), Vigueur, Passion (Luxure), Fertilité, Eau"},
+		
+		"Toth/Djehuty": {
+		"vocations": "Gardien, Liminal, Sage",
+		"domaines": "Animal (Babouin, Ibis), Tromperie, Fortune, Santé, Lune, Ordre"}
+	}
+}

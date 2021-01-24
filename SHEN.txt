@@ -1,5 +1,5 @@
 "Shén": {
-	"vocations": "competences": "Sciences Humaines, Commandement",
+	"competences": "Sciences Humaines, Commandement",
 	"echelle de vertu": "Yin VS Yang", 
 	"domaine pantheon": "Tianming",
 	"liste dieux": {

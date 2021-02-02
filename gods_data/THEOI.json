@@ -7,7 +7,7 @@
 
 			"Aphrodite": {
 			"vocations": ["Géniteur", "Gardien", "Amant"],
-			"domaines": ["Fertilité", "Passion (Désir", "Amour)", "Richesse"]
+			"domaines": ["Fertilité", "Passion (Désir, Amour)", "Richesse"]
 	},
 
 			"Apollo": {
@@ -17,7 +17,7 @@
 
 			"Arès": {
 			"vocations": ["Gardien", "Amant", "Guerrier"],
-			"domaines": ["Chaos", "Fertilité", "Ordre", "Passion (Rage", "Courage)", "Richesse", "Guerre"]
+			"domaines": ["Chaos", "Fertilité", "Ordre", "Passion (Rage, Courage)", "Richesse", "Guerre"]
 	},
 
 			"Artemis": {

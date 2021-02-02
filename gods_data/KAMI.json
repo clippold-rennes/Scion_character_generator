@@ -1,67 +1,84 @@
-"Kami": {
-"competences": "Culture, Persuasion OU Mêlée",
-"echelle de vertu": "Sincérité VS Juste Action",
-"domaine pantheon": "Huit Millions de Kami",
-"liste dieux": {
+{
+	"Kami": {
+	"competences": "Culture, Persuasion OU Mêlée",
+	"echelle de vertu": "Sincérité VS Juste Action",
+	"domaine pantheon": "Huit Millions de Kami",
+	"liste dieux": {
 
-	"Ama-no-Uzume": {
-	"vocations": "Liminal, Amant, Filou",
-	"domaines": "Arts (Danse, Chant), Tromperie, Passion (Luxure,Rire)"}
-	
-	"Amaterasu": {
-	"vocations": "Justicier, Meneur, Sage",
-	"domaines": "FOR, Fertilité, Ordre, Richesse, Soleil"
-	
-	"Benten": {
-	"vocations": "Géniteur, Amant, Sage", 
-	"domaines": "Animal (Serpent), Arts (tous), Beauté, Fertilité, Fortune, Étoiles"}
-	
-	"Bishamon": {
-	"vocations": "Gardien, Sage, Guerrier",
-	"domaines": "DEX, Fortune, Richesse, Guerre"}
+		"Ama-no-Uzume": {
+			"vocations": ["Liminal", "Amant", "Filou"],
+			"domaines": ["Arts (Danse", "Chant)", "Tromperie", "Passion (Luxure,Rire)"]
+			},
+		
+		"Amaterasu": {
+			"vocations": ["Justicier", "Meneur", "Sage"],
+			"domaines": ["FOR", "Fertilité", "Ordre", "Richesse", "Soleil"],
+			},
+		
+		"Benten": {
+			"vocations": ["Géniteur", "Amant", "Sage"],
+			"domaines": ["Animal (Serpent)", "Arts (tous)", "Beauté", "Fertilité", "Fortune", "Étoiles"]
+			},
+		
+		"Bishamon": {
+			"vocations": ["Gardien", "Sage", "Guerrier"],
+			"domaines": ["DEX", "Fortune", "Richesse", "Guerre"]
+			},
 
-	"Ebisu": {
-	"vocations": "Chasseur, Liminal, Filou",
-	"domaines": "Animal (Poisson, Requins, Baleines), Vigueur, Fortune, Richesse, Monde Sauvage"}
+		"Ebisu": {
+			"vocations": ["Chasseur", "Liminal", "Filou"],
+			"domaines": ["Animal (Poisson, Requins, Baleines)", "Vigueur", "Fortune", "Richesse", "Monde Sauvage"]
+			},
 
-	"Fukurokuju": {
-	"vocations": "Guérisseur, Amant, Sage",
-	"domaines": "Animal (Cerf, Tortues, Grues), Vigueur, Santé, Fortune"}
+		"Fukurokuju": {
+			"vocations": ["Guérisseur", "Amant", "Sage"],
+			"domaines": ["Animal (Cerf", "Tortues", "Grues)", "Vigueur", "Santé", "Fortune"]
+			},
 
-	"Hachiman": {
-	"vocations": "Meneur, Sage, Guerrier",
-	"domaines": "Arts (tous), Animal (Colombe), Ordre, Richesse, Guerre"}
+		"Hachiman": {
+			"vocations": ["Meneur", "Sage", "Guerrier"],
+			"domaines": ["Arts (tous)", "Animal (Colombe)", "Ordre", "Richesse", "Guerre"]
+			},
 
-	"Hotei": {
-	"vocations": "Gardien, Liminal, Sage",
-	"domaines": "Chaos, Fortune, Voyages, Passion"}
+		"Hotei": {
+			"vocations": ["Gardien", "Liminal", "Sage"],
+			"domaines": ["Chaos", "Fortune", "Voyages", "Passion"]
+			},
 
-	"Inari": {
-	"vocations": "Géniteur, Guérisseur, Liminal",
-	"domaines": "Animal (Renard), Fertilité, Fortune, Santé, Voyages, Richesse"}
+		"Inari": {
+			"vocations": ["Géniteur", "Guérisseur", "Liminal"],
+			"domaines": ["Animal (Renard)", "Fertilité", "Fortune", "Santé", "Voyages", "Richesse"]
+			},
 
-	"Kisshoten": {
-	"vocations": "Gardien, Guérisseur, Amant,
-	"domaines": "Beauté, Fortune, Santé"}
+		"Kisshoten": {
+			"vocations": ["Gardien", "Guérisseur", "Amant"],
+			"domaines": ["Beauté", "Fortune", "Santé"]
+			},
 
-	"Okuninushi": {
-	"vocations": "Géniteur, Meneur, Liminal",
-	"domaines": "Animal (tous), Terre, Ténèbres, Fortune, Richesse"}
+		"Okuninushi": {
+			"vocations": ["Géniteur", "Meneur", "Liminal"],
+			"domaines": ["Animal (tous)", "Terre", "Ténèbres", "Fortune", "Richesse"]
+			},
 
-	"Sarutahiko": {
-	"vocations": "Amant, Sage, Guerrier",
-	"domaines": "Animal (Singes), Terre, Voyages"}
+		"Sarutahiko": {
+			"vocations": ["Amant", "Sage", "Guerrier"],
+			"domaines": ["Animal (Singes)", "Terre", "Voyages"]
+			},
 
-	"Susano-Wo": {
-	"vocations": "Géniteur, Filou, Guerrier",
-	"domaines": "Arts (Poésie), Chaos, Mort, FOR, Forge (Métallurgie), Ciel, Eau"}
+		"Susano-Wo": {
+			"vocations": ["Géniteur", "Filou", "Guerrier"],
+			"domaines": ["Arts (Poésie)", "Chaos", "Mort", "FOR", "Forge (Métallurgie)", "Ciel", "Eau"]
+			},
 
-	"Takemikazuchi": {
-	"vocations": "Gardien, Meneur, Guerrier",
-	"domaines": "Animal (Cerf), DEX, Vigueur, FOR, Ciel (Tonnerre), Guerre"
+		"Takemikazuchi": {
+			"vocations": ["Gardien", "Meneur", "Guerrier"],
+			"domaines": ["Animal (Cerf)", "DEX", "Vigueur", "FOR", "Ciel (Tonnerre)", "Guerre"]
+			},
 
-	"Tsukiyomi": {
-	"vocations": "Guérisseur, Liminal, Justicier",
-	"domaines": "Arts, Ténèbres, Lune, Ordre, Étoiles"}
+		"Tsukiyomi": {
+			"vocations": ["Guérisseur", "Liminal", "Justicier"],
+			"domaines": ["Arts", "Ténèbres", "Lune", "Ordre", "Étoiles"]
+			}
+		}
 	}
 }

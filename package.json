@@ -1,0 +1,24 @@
+{
+  "name": "Scion_character_generator",
+  "version": "1.0.0",
+  "description": "Générateur de fiches personnages Scion.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clippold-rennes/Scion_character_generator.git"
+  },
+  "keywords": [],
+  "author": "Claire Lippold and Lucile Lévêque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clippold-rennes/Scion_character_generator/issues"
+  },
+  "homepage": "https://github.com/clippold-rennes/Scion_character_generator#readme",
+  "devDependencies": {
+    "electron": "^11.2.2"
+  }
+}

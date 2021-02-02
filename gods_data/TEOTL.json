@@ -1,60 +1,61 @@
-"Teōtl": {
-	"competences": "Athlétisme OU Corps à Corps, Culture",
-	"echelle de vertu": "Faim VS Sacrifice", 
-	"domaine pantheon": "Nextlahualli",
-	"liste dieux": {
-	
-		"Chālchihuitlicuē": {
-		"vocations": "Géniteur, Gardien, Meneur",
-		"domaines": "Animal (Aquatiques), Fertilité, Eau"},
+{ 
+	"Teotl": {
+		"competences": "Athlétisme OU Corps à Corps, Culture",
+		"echelle de vertu": "Faim VS Sacrifice",
+		"domaine pantheon": "Nextlahualli",
+		"liste dieux": {
+		
+			"Chalchihuitlicue": {
+				"vocations": ["Géniteur", "Gardien", "Meneur"],
+				"domaines": ["Animal (Aquatiques)", "Fertilité", "Eau"]},
 
-		"Chantico": {
-		"vocations": "Guérisseur, Liminal, Sage",
-		"domaines": "Feu, Forge, Ordre, Richesse"},
+			"Chantico": {
+				"vocations": ["Guérisseur", "Liminal", "Sage"],
+				"domaines": ["Feu", "Forge", "Ordre", "Richesse"]},
 
-		"Chicomecoatl": {
-		"vocations": "Guérisseur, Gardien, Justicier",
-		"domaines": "Terre, Fertilité, Richesse"},
+			"Chicomecoatl": {
+				"vocations": ["Guérisseur", "Gardien", "Justicier"],
+				"domaines": ["Terre", "Fertilité", "Richesse"]},
 
-		"Huēhuecoyōtl": {
-		"vocations": "Amant, Sage, Filou",
-		"domaines": "Chaos, DEX, Passion (toutes)"},
+			"Huehuecoyotl": {
+				"vocations": ["Amant", "Sage", "Filou"],
+				"domaines": ["Chaos", "DEX", "Passion (toutes)"]},
 
-		"Huītzilōpōchtli": {
-		"vocations": "Gardien, Meneur, Guerrier",
-		"domaines": "Animal (Aigle, Colibri), Mort, FOR, Richesse, Soleil, Guerre"},
+			"Huitzilopochtli": {
+				"vocations": ["Gardien", "Meneur", "Guerrier"],
+				"domaines": ["Animal (Aigle, Colibri)", "Mort", "FOR", "Richesse", "Soleil", "Guerre"]},
 
-		"Ītzpāpālōtl": {
-		"vocations": "Chasseur, Amant, Guerrier",
-		"domaines": "Animal (tous), Ténèbres, Mort, Fertilité, Étoiles, Guerre"},
+			"Itzpapalotl": {
+				"vocations": ["Chasseur", "Amant", "Guerrier"],
+				"domaines": ["Animal (tous)", "Ténèbres", "Mort", "Fertilité", "Étoiles", "Guerre"]},
 
-		"Mictecacihuatl": {
-		"vocations": "Gardien, Meneur, Sage",
-		"domaines": "Animal (Chauve-souris, Chouette, Araignée), Ténèbres, Mort, Passion (toutes)"},
+			"Mictecacihuatl": {
+				"vocations": ["Gardien", "Meneur", "Sage"],
+				"domaines": ["Animal (Chauve-souris, Chouette", "Araignée)", "Ténèbres", "Mort", "Passion (toutes)"]},
 
-		"Quetzalcōātl": {
-		"vocations": "Géniteur, Liminal, Sage",
-		"domaines": "Arts (Écriture à la plume), Animal (tous), Fertilité, Voyages, Ordre, Ciel, Étoiles"},
+			"Quetzalcoatl": {
+				"vocations": ["Géniteur", "Liminal", "Sage"],
+				"domaines": ["Arts (Écriture à la plume)", "Animal (tous)", "Fertilité", "Voyages", "Ordre", "Ciel", "Étoiles"]},
 
-		"Tezcatlipōca": {
-		"vocations": "Chasseur, Meneur, Filou",
-		"domaines": "Animal (Jaguar, Dinde), Chaos, Ténèbres, Tromperie, Terre, Fortune, Guerre"},
+			"Tezcatlipoca": {
+				"vocations": ["Chasseur", "Meneur", "Filou"],
+				"domaines": ["Animal (Jaguar", "Dinde)", "Chaos", "Ténèbres", "Tromperie", "Terre", "Fortune", "Guerre"]},
 
-		"Tlāloc": {
-		"vocations": "Gardien, Guérisseur, Chasseur",
-		"domaines": "Mort, Terre, Fertilité, Froid, Santé, Ciel"},
+			"Tlaloc": {
+				"vocations": ["Gardien", "Guérisseur", "Chasseur"],
+				"domaines": ["Mort", "Terre", "Fertilité", "Froid", "Santé", "Ciel"]},
 
-		"Xīpe Totec": {
-		"vocations": "Géniteur, Guérisseur, Chasseur",
-		"domaines": "Fertilité, Forge, Santé, Guerre"},
+			"Xipe Totec": {
+				"vocations": ["Géniteur", "Guérisseur", "Chasseur"],
+				"domaines": ["Fertilité", "Forge", "Santé", "Guerre"]},
 
-		"Xōchipilli": {
-		"vocations": "Gardien, Amant, Filou",
-		"domaines": "Arts (toutes), Beauté, Fortune, Passion (toutes), Richesse"},
+			"Xochipilli": {
+				"vocations": ["Gardien", "Amant", "Filou"],
+				"domaines": ["Arts (toutes)", "Beauté", "Fortune", "Passion (toutes)", "Richesse"]},
 
-		"Xochiquetzal": {
-		"vocations": "Géniteur, Gardien, Amant",
-		"domaines": "Arts (tous), Beauté, DEX, Fertilité, Fortune, Passion (toutes), Richesse"}
-
+			"Xochiquetzal": {
+				"vocations": ["Géniteur", "Gardien", "Amant"],
+				"domaines": ["Arts (tous)", "Beauté", "DEX", "Fertilité", "Fortune", "Passion (toutes)", "Richesse"]},
+		}
 	}
 }

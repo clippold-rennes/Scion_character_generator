@@ -1,0 +1,63 @@
+"Òrìshà": {
+	"competences": "Médecine, Subterfuge",
+	"echelle de vertu": "Tradition VS Innovation", 
+	"domaine pantheon": "Gún/Cheval",
+	"liste dieux": {
+
+		"Èṣù Elègbará": {
+		"vocations": "Liminal, Amant, Filou",
+		"domaines": "Arts (Narration d’histoires), Chaos, Tromperie, DEX, Fortune, Voyages"},
+
+		"Ìbejì": {
+		"vocations": "Guérisseur, Justicier, Filou",
+		"domaines": "Arts (Danse), Animal (Singes), Mort, Fertilité, Fortune, Richesse"},
+
+		"Mọrèmi": {
+		"vocations": "Gardien, Amant, Filou",
+		"domaines": "Beauté, Tromperie, Fertilité, Feu, Passion (toutes)"},
+
+		"Ọbàtálá": {
+		"vocations": "Géniteur, Justicier, Meneur",
+		"domaines": "Arts (Sculpture), Santé, Ordre, Ciel"},
+
+		"Odùduwà": {
+		"vocations": "Géniteur, Meneur, Guerrier",
+		"domaines": "Ténèbres, Terre, Ordre, Guerre"},
+
+		"Ògún": {
+		"vocations": "Géniteur, Chasseur, Guerrier",
+		"domaines": "Terre, FOR, Vigueur, Forge, Passion (Peur), Guerre"},
+
+		"Òrìṣà-Oko": {
+		"vocations": "Chasseur, Justicier, Sage",
+		"domaines": "Animal (de bât, Oiseaux), Fertilité, Fortune, Ordre, Richesse"},
+
+		"Ọ̀rúnmìlà": {
+		"vocations": "Guérisseur, Justicier, Sage",
+		"domaines": "Fortune, Ciel, Étoiles, Monde Sauvage"},
+
+		"Osóssí": {
+		"vocations": "Gardien, Chasseur, Justicier",
+		"domaines": "Animal (tous), DEX, Richesse, Monde Sauvage"},
+
+		"Ọ̀ṣun": {
+		"vocations": "Guérisseur, Amant, Sage",
+		"domaines": "Animal (Abeilles), Beauté, Fortune, Froid, Santé, Passion (Amour), Richesse, Eau"},
+
+		"Ọya Iyansan": {
+		"vocations": "Gardien, Liminal, Guerrier",
+		"domaines": "Animal (Taureau), DEX, FOR, Mort, Richesse, Ciel, Eau"},
+
+		"ỌyaṢhàngó": {
+		"vocations": "Meneur, Amant, Guerrier",
+		"domaines": "Arts (Danse, Tambours), Beauté, FOR, Feu, Ordre, Passion, Richesse, Ciel,Guerre"},
+
+		"Sò ̣npò ̣nná": {
+		"vocations": "Guérisseur, Chasseur, Liminal",
+		"domaines": "Mort, Terre, Santé, Passion (Dépit), Monde Sauvage"},
+
+		"Yemọja-Oboto": {
+		"vocations": "Géniteur, Gardien, Meneur",
+		"domaines": "Animal (Cétacés), FOR, Vigueur, Fertilité, Froid, Voyages, Eau"}
+
+}

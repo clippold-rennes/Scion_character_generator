@@ -1,0 +1,67 @@
+"Theoi": {
+	"competences": "Empathie, Persuasion",
+	"echelle de vertu": "Égotisme VS Famille", 
+	"domaine pantheon": "Métamorphose",
+	"liste dieux": {
+
+		"Aphrodite": {
+		"vocations": "Géniteur, Gardien, Amant",
+		"domaines": "Fertilité, Passion (Désir, Amour), Richesse"},
+
+		"Apollo": {
+		"vocations": "Guérisseur, Justicier, Sage",
+		"domaines": "Arts, DEX, Santé, Soleil"},
+
+		"Arès": {
+		"vocations": "Gardien, Amant, Guerrier",
+		"domaines": "Chaos, Fertilité, Ordre, Passion (Rage, Courage), Richesse, Guerre"},
+
+		"Artemis": {
+		"vocations": "Gardien, Guérisseur, Chasseur",
+		"domaines": "Animal (tous), DEX, Santé, Lune"},
+
+		"Athéna": {
+		"vocations": "Gardien, Sage, Guerrier",
+		"domaines": "Arts (Tissage), Animal (Chouette), DEX, Ordre, Guerre"},
+
+		"Demeter": {
+		"vocations": "Géniteur, Gardien, Justicier",
+		"domaines": "Terre, Vigueur, Fertilité, Ordre"},
+
+		"Dionysos": {
+		"vocations": "Liminal, Amant, Sage",
+		"domaines": "Arts (Théâtre), Chaos, Tromperie, Fertilité, Passion (Extase)"},
+
+		"Hades": {
+		"vocations": "Justicier, Meneur, Liminal",
+		"domaines": "Ténèbres, Mort, Terre, Richesse"},
+
+		"Hephaestus": {
+		"vocations": "Géniteur, Sage, Filou",
+		"domaines": "Vigueur, Feu, Forge, Fortune"},
+
+		"Hera": {
+		"vocations": "Justicier, Meneur, Amant",
+		"domaines": "Fertilité, Santé, Ordre, Richesse"},
+
+		"Hermes": {
+		"vocations": "Liminal, Sage, Filou",
+		"domaines": "Mort, Tromperie, DEX, Voyages, Richesse"},
+
+		"Hestia": {
+		"vocations": "Gardien, Guérisseur, Justicier",
+		"domaines": "Feu, Fortune, Ordre, Richesse"},
+
+		"Persephone": {
+		"vocations": "Justicier, Meneur, Liminal",
+		"domaines": "Ténèbres, Mort, Fertilité, Santé"},
+
+		"Poseidon": {
+		"vocations": "Gardien, Chasseur, Meneur",
+		"domaines": "Animal (Cheval), FOR, Terre, Eau"},
+
+		"Zeus": {
+		"vocations": "Meneur, Amant, Filou",
+		"domaines": "Tromperie, FOR, Vigueur, Fortune, Ciel"}
+	}
+}

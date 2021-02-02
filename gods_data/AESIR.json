@@ -1,0 +1,61 @@
+{
+	"Aesir": {
+		"competences": "Corps à Corps, Occultisme",
+		"echelle de vertu": "Fatalisme VS Audace",
+		"domaine pantheon": "Wyrd",
+		"liste dieux": {
+			"Baldr/Baldur": {
+				"vocations": ["Gardien", "Liminal", "Guerrier"],
+				"domaines": ["Vigueur", "Santé", "Passion (Amour, Guerre)", "Soleil"]
+			},
+			"Freyja": {
+				"vocations": ["Gardien", "Amant", "Sage", "Guerrier"],
+				"domaines": ["Mort", "Vigueur", "Fertilité", "Fortune", "Passion (Amour, Luxure)", "Richesse", "Guerre"]
+			},
+			"Freyr": {
+				"vocations": ["Amant", "Guerrier", "Meneur"],
+				"domaines": ["Fertilité", "Ordre", "Guerre"]
+			},
+			"Frigg/Frigga": {
+				"vocations": ["Gardien", "Amant", "Sage"],
+				"domaines": ["Fortune", "Ordre"]
+			},
+			"Heimdall": {
+				"vocations": ["Gardien", "Chasseur", "Guerrier"],
+				"domaines": ["Arts (Cors)", "Vigueur", "Passion (Vigilance)"]
+			},
+			"Hel": {
+				"vocations": ["Gardien", "Justicier", "Liminal"],
+				"domaines": ["Mort", "Forge", "Froid", "Santé", "Passion (Peur, Dégoût)"]
+			},
+			"Loki": {
+				"vocations": ["Liminal", "Amant", "Filou"],
+				"domaines": ["Chaos", "Tromperie", "FOR", "Feu"]
+			},
+			"Njord": {
+				"vocations": ["Géniteur", "Chasseur", "Meneur"],
+				"domaines": ["Fertilité", "Feu", "Voyages", "Richesse", "Ciel", "Eau"]
+			},
+			"Odin": {
+				"vocations": ["Meneur", "Sage", "Filou"],
+				"domaines": ["Arts (Poésie)", "Mort", "Tromperie", "Vigueur", "Fortune", "Voyages", "Guerre"]
+			},
+			"Sif": {
+				"vocations": ["Géniteur", "Justicier", "Amant"],
+				"domaines": ["Terre", "Fertilité", "Ordre", "Passion (Paix)"]
+			},
+			"Skadi": {
+				"vocations": ["Chasseur", "Justicier", "Guerrier"],
+				"domaines": ["Terre", "DEX", "Froid", "Voyages", "Ordre"]
+			},
+			"Thor": {
+				"vocations": ["Gardien", "Meneur", "Guerrier"],
+				"domaines": ["Vigueur", "FOR", "Fertilité", "Ciel"]
+			},
+			"Tyr": {
+				"vocations": ["Justicier", "Meneur", "Guerrier"],
+				"domaines": ["Vigueur", "Ordre", "Passion (Courage)", "Guerre"]
+			}
+		}
+	}
+}

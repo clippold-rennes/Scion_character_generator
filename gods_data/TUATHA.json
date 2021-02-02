@@ -1,0 +1,56 @@
+"Tuatha Dé Danann": {
+	"competences": "Corps à Corps, Culture",
+	"echelle de vertu": "Honneur VS Prouesse",
+	"domaine pantheon": "Geasa",
+	"liste dieux": {
+
+		"Aengus the Mac Óg": {
+		"vocations": "Gardien, Amant, Filou",
+		"domaines": "Animal (Oiseau), Tromperie, Lune, Passion (Amour)"},
+
+		"Brigid": {
+		"vocations": "Guérisseur, Sage, Filou",
+		"domaines": "Arts (Poésie), Fertilité, Feu, Forge, Santé"},
+
+		"Dian Cécht": {
+		"vocations": "Géniteur, Guérisseur, Justicier",
+		"domaines": "Fertilité, Santé, Eau"},
+
+		"Donn": {
+		"vocations": "Meneur, Liminal, Filou",
+		"domaines": "Ténèbres, Mort, Voyages, Ciel"},
+
+		"Eriu": {
+		"vocations": "Gardien, Justicier, Meneur",
+		"domaines": "Terre, Fertilité, Ordre, Richesse"},
+
+		"Goibniu": {
+		"vocations": "Géniteur, Sage, Guerrier",
+		"Arts (Brassage), Vigueur, Forge, Santé"},
+
+		"La Morrigan": {
+		"vocations": "Liminal, Amant, Sage",
+		"domaines": "Animal (Corbeaux, Bétail, Cheval), Chaos, Mort, DEX, Fortune, Richesse, Guerre"},
+
+		"Le Dagda": {
+		"vocations": "Gardien, Meneur, Sage",
+		"domaines": "Vigueur, FOR, Fertilité, Forge, Richesse, Guerre"},
+
+		"Lugh Lámhfhada": {
+		"vocations": "Géniteur, Meneur, Guerrier",
+		"domaines": "Arts (tous), DEX, FOR, Forge, Santé, Ordre, Richesse, Guerre"},
+
+		"Manannán mac Lir": {
+		"vocations": "Gardien, Liminal, Filou",
+		"domaines": "Tromperie, Voyages, Richesse, Étoiles, Eau"},
+
+		"Nuada Airgetlám": {
+		"vocations": "Meneur, Sage, Guerrier",
+		"domaines": "Ordre, Richesse, Guerre"},
+
+		"Ogma": {
+		"vocations": "Gardien, Sage, Guerrier",
+		"domaines": "Arts (Rhétorique, Poésie), FOR, Fortune, Monde Sauvage"},
+
+	}
+}
